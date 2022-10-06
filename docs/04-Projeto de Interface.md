@@ -25,13 +25,10 @@ Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do si
 
 <p align="center">Figura 3 - Estrutura padrão do site</p>
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+## Tela - Página Inicial
+
+A tela de Página Inicial traz uma barra de pesquisa geral por nome de Receita ou Ingrediente no seu cabeçalho, dando alternativa ao usuário caso ele queira pesquisar algo específico a qualquer momento da sua navegação sem precisar retornar à Tela Inicial. Ao lado da barra de pesquisa são disponibilizados os botões Login (para usuários já cadastrados) e Cadastre-se (para usuários que desejam se cadastrar).
+Com base na estrutura padrão, o bloco Menu traz os atalhos para acesso à Página Inicial e ao Meu Perfil que permite ao usuário uma maior agilidade na navegação. 
+Por sua vez, o bloco de Conteúdo mostra uma mensagem de destaque dando ênfase na proposta do site e na sequência traz os campos dos ingredientes a serem informados pelo usuário para que a pesquisa seja realizada no Sistema. 
+
+![PaginaInicial](/img/Tela Inicial-QReceita.jpg)
