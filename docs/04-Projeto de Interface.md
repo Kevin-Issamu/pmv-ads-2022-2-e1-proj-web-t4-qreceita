@@ -25,10 +25,16 @@ Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do si
 
 <p align="center">Figura 3 - Estrutura padrão do site</p>
 
-## Tela - Página Inicial
+Tela - Página Inicial
 
 A tela de Página Inicial traz uma barra de pesquisa geral por nome de Receita ou Ingrediente no seu cabeçalho, dando alternativa ao usuário caso ele queira pesquisar algo específico a qualquer momento da sua navegação sem precisar retornar à Tela Inicial. Ao lado da barra de pesquisa são disponibilizados os botões Login (para usuários já cadastrados) e Cadastre-se (para usuários que desejam se cadastrar).
 Com base na estrutura padrão, o bloco Menu traz os atalhos para acesso à Página Inicial e ao Meu Perfil que permite ao usuário uma maior agilidade na navegação. 
 Por sua vez, o bloco de Conteúdo mostra uma mensagem de destaque dando ênfase na proposta do site e na sequência traz os campos dos ingredientes a serem informados pelo usuário para que a pesquisa seja realizada no Sistema. 
 
-![PaginaInicial](/img/Tela Inicial-QReceita.jpg)
+![PaginaInicial](img/Tela_Inicial_QReceita.jpg)
+
+<p align="center">Figura 4 - Página Inicial</p>
+
+Tela - Lista de Receitas Encontradas
+
+A tela de Lista de Receitas Encontradas traz no Bloco de Conteúdo as receitas,  priorizando aquelas que compreendem todos os ingredientes inseridos na pesquisa e na sequência aquelas que têm parte dos ingredientes. 
