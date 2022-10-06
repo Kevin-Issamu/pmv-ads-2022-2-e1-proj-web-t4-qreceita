@@ -21,7 +21,9 @@ Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do si
 
 ● Conteúdo - apresenta o conteúdo da tela em questão;
 
-![Wireframe](img/Wireframes-QReceita.jpg)
+<div align="center">
+  ![Wireframe](img/Wireframes-QReceita.jpg)
+</div>
 
 <p align="center">Figura 3 - Estrutura padrão do site</p>
 
