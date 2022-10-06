@@ -56,12 +56,19 @@ Ao clicar no ícone de filtragem, aparecerão as opções de classificação das
 ### Tela - Receita Escolhida
 
 Ao selecionar a Receita apresentada pela pesquisa o site abrirá esta página com o detalhamento dessa Receita, trazendo:
+
   ● medida dos ingredientes;
+  
   ● modo e tempo de preparo;
+  
   ● serve quantas pessoas;
+  
   ● uma imagem do prato;
+  
   ● possibilidade de atribuir uma avaliação da receita;
+  
   ● possibilidade de incluir comentários;
+  
   ● possibilidade de compartilhar a receita;
   
 ![ReceitaEscolhida](img/Receita_Escolhida.jpg)
