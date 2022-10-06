@@ -8,7 +8,7 @@ Nesta seção são apresentados os detalhes técnicos da solução criada pela e
 
 Os componentes que fazem parte da solução são apresentados na Figura que se segue:
 
-<img class="componentes" src="img/arquitetura_solucoes.jpg" align="center">
+<img class="componentes" src="img/arquitetura_solucoes.jpg" align="middle">
 <p align="center">Figura 15 - Arquitetura da Solução</p>
 
 A solução implementada conta com os seguintes módulos:
