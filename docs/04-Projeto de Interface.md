@@ -16,7 +16,9 @@ O diagrama apresentado na Figura 2 mostra o fluxo de interação do usuário pel
 Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. As telas do sistema apresentam uma estrutura comum que é apresentada na Figura 3. Nesta estrutura, existem 3 grandes blocos, descritos a seguir. São eles:
 
 ● Cabeçalho - local onde são dispostos elementos fixos de identidade (logo), barra de pesquisa geral e botões de Login e Cadastre-se;
+
 ● Menu - neste bloco estão dispostos a estrutura de navegação principal do site (menu da aplicação);
+
 ● Conteúdo - apresenta o conteúdo da tela em questão;
 
 ![Wireframe](img/Wireframes-QReceita.jpg)
