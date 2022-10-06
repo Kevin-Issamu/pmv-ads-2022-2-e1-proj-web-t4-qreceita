@@ -37,7 +37,7 @@ Por sua vez, o bloco de Conteúdo mostra uma mensagem de destaque dando ênfase 
 
 <p align="center">Figura 4 - Página Inicial</p>
 
-Tela - Lista de Receitas Encontradas
+### Tela - Lista de Receitas Encontradas
 
 A tela de Lista de Receitas Encontradas traz no Bloco de Conteúdo as receitas,  priorizando aquelas que compreendem todos os ingredientes inseridos na pesquisa e na sequência aquelas que têm parte dos ingredientes. 
 
@@ -45,7 +45,7 @@ A tela de Lista de Receitas Encontradas traz no Bloco de Conteúdo as receitas, 
 
 <p align="center">Figura 5 - Lista de Receitas Encontradas</p>
 
-Tela - Ranqueamento de receitas encontradas
+### Tela - Ranqueamento de receitas encontradas
 
 Ao clicar no ícone de filtragem, aparecerão as opções de classificação das receitas Mais bem avaliadas e por aquelas Menos avaliadas.
 
@@ -53,7 +53,8 @@ Ao clicar no ícone de filtragem, aparecerão as opções de classificação das
 
 <p align="center">Figura 6 - Ranqueamento de receitas encontradas</p>
 
-Tela - Receita Escolhida
+### Tela - Receita Escolhida
+
 Ao selecionar a Receita apresentada pela pesquisa o site abrirá esta página com o detalhamento dessa Receita, trazendo:
   ● medida dos ingredientes;
   ● modo e tempo de preparo;
@@ -67,7 +68,7 @@ Ao selecionar a Receita apresentada pela pesquisa o site abrirá esta página co
 
 <p align="center">Figura 7 - Tela de Receita Escolhida</p>
 
-Tela - Compartilhamento da Receita
+### Tela - Compartilhamento da Receita
 
 Nessa tela o usuário tem 5 opções de compartilhamento da receita, sendo via Whatsapp, Instagram, Facebook, Twitter e Gmail. Esta tela é exibida na forma de uma janela modal. Deve-se copiar o link informado e selecionar umas das plataformas para compartilhamento.
 
@@ -75,7 +76,7 @@ Nessa tela o usuário tem 5 opções de compartilhamento da receita, sendo via W
 
 <p align="center">Figura 8 - Tela de compartilhamento de receitas</p>
 
-Tela - Fazer Login
+### Tela - Fazer Login
 
 Uma vez que usuário queira Avaliar ou Comentar a Receita, o site pedirá que ele faça o Login como usuário cadastrado.
 
@@ -83,7 +84,7 @@ Uma vez que usuário queira Avaliar ou Comentar a Receita, o site pedirá que el
 
 <p align="center">Figura 9 - Tela de Fazer Login</p>
 
-Tela - Cadastre-se
+### Tela - Cadastre-se
 
 Caso o usuário ainda não tenha realizado o seu cadastro, abrirá uma nova página no qual ele fará de forma simples o seu registro de usuário, contendo: nome, e-mail, a criação e validação de uma senha.
 
@@ -91,7 +92,7 @@ Caso o usuário ainda não tenha realizado o seu cadastro, abrirá uma nova pág
 
 <p align="center">Figura 10 - Tela de Cadastre-se</p>
 
-Tela - Pesquisa por usuário Logado
+### Tela - Pesquisa por usuário Logado
 
 A tela de pesquisa com o usuário logado, segue a mesma estrutura do site, porém apresenta no canto superior à direita é apresentada uma foto desse usuário (caso tenha inserido no seu perfil) e o seu username. Já no bloco de Conteúdo a frase “Receitas com base nos ingredientes que você tem na geladeira” dá lugar a “Qual será a receita de hoje, (Username)? dando um caráter mais interativo com esse usuário.
 
@@ -99,7 +100,7 @@ A tela de pesquisa com o usuário logado, segue a mesma estrutura do site, poré
 
 <p align="center">Figura 11 - Tela do usuário após o cadastro</p>
 
-Tela - Perfil do Usuário
+### Tela - Perfil do Usuário
 
 A Tela de Perfil do Usuário apresenta a opção de alteração ou adição de informações pessoais. Nela, ele informa seu Nome, sua Profissão, adiciona alguma informação complementar sobre ele e seu perfil no Facebook, Twitter e no Instagram. Além disso, o Usuário tem a opção de adicionar uma foto no pequeno menu da lateral direita que ficará visível durante toda sua experiência na plataforma no canto superior direito como opção de retorno a tela de Perfil.
 
@@ -107,7 +108,7 @@ A Tela de Perfil do Usuário apresenta a opção de alteração ou adição de i
 
 <p align="center">Figura 12 - Tela de Perfil do Usuário</p>
 
-Tela - Incluir Receitas
+### Tela - Incluir Receitas
 
 A tela de Incluir Receitas apresenta uma barra de texto para que o usuário possa inserir o nome da receita. Logo abaixo, existe a opção de adicionar uma fotografia do prato preparado, e na lateral uma opção para inserir a quantidade de porções que a receita serve e também uma opção de informar o tempo de preparo. Na informação Medida dos Ingredientes e Modo de Preparo, a cada novo ingrediente/modo, é necessário o usuário clicar no ícone +, ao lado, para que uma nova barra de digitação seja inserida abaixo da anterior.
 
@@ -115,7 +116,7 @@ A tela de Incluir Receitas apresenta uma barra de texto para que o usuário poss
 
 <p align="center">Figura 13 - Tela de Inclusão de Receitas</p>
 
-Tela - Minhas Receitas
+### Tela - Minhas Receitas
 
 A tela de Minhas Receitas apresenta no seu Bloco de Conteúdo a listagem das Receitas Salvas/Favoritadas e aquelas que foram incluídas pelo usuário, mantendo-se assim um cadastro pessoal dentro do seu perfil.
 
